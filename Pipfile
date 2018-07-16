@@ -9,6 +9,7 @@ name = "pypi"
 pytest = "*"
 requests = "*"
 selenium = "*"
+pytest-xdist = "*"
 
 [requires]
 python_version = "3.6"

@@ -1,3 +1,4 @@
 [
-  "test_pytest_working.py::Test_RunnerClass::()::test_withChrome"
+  "test_euroPython.py::test_nix_website_title",
+  "test_euroPython.py::test_pytest_website_title"
 ]
