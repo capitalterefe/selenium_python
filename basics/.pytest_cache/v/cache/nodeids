@@ -1,4 +1,4 @@
 [
-  "test_euroPython.py::test_nix_website_title",
-  "test_euroPython.py::test_pytest_website_title"
+  "test_pyconfTwo.py::TestClassDemo::()::test_pp",
+  "test_pyconfTwo.py::TestClassDemo::()::test_dd"
 ]
