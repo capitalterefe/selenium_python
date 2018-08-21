@@ -4,12 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [dev-packages]
+"autopep8" = "*"
+black = "*"
 
 [packages]
 pytest = "*"
 requests = "*"
 selenium = "*"
 pytest-xdist = "*"
+pylint = "*"
+"autopep8" = "*"
 
 [requires]
 python_version = "3.6"

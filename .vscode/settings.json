@@ -1,13 +1,10 @@
 {
-    "python.pythonPath": "/Users/ct/virtual_env/bin/python3.6",
-    "python.unitTest.unittestArgs": [
-        "-v",
-        "-s",
-        ".",
-        "-p",
-        "test*.py"
-    ],
-    "python.unitTest.pyTestEnabled": false,
-    "python.unitTest.nosetestsEnabled": false,
-    "python.unitTest.unittestEnabled": true
+  "python.pythonPath": "/Users/ct/virtual_env/bin/python3.6",
+  "python.unitTest.unittestArgs": ["-v", "-s", ".", "-p", "test*.py"],
+  "python.unitTest.pyTestEnabled": false,
+  "python.unitTest.nosetestsEnabled": false,
+  "python.unitTest.unittestEnabled": true,
+  "python.formatting.provider": "autopep8",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }
